@@ -1,0 +1,68 @@
+[
+  {
+    "entry": 164,
+    "quality": 1,
+    "name": "Кузнечное дело",
+    "icon": "https://cdn3.scourge.tech/icons/trade_blacksmithing.png"
+  },
+  {
+    "entry": 165,
+    "quality": 1,
+    "name": "Кожевничество",
+    "icon": "https://cdn3.scourge.tech/icons/trade_leatherworking.png"
+  },
+  {
+    "entry": 171,
+    "quality": 1,
+    "name": "Алхимия",
+    "icon": "https://cdn3.scourge.tech/icons/trade_alchemy.png"
+  },
+  {
+    "entry": 182,
+    "quality": 1,
+    "name": "Травничество",
+    "icon": "https://cdn3.scourge.tech/icons/trade_herbalism.png"
+  },
+  {
+    "entry": 186,
+    "quality": 1,
+    "name": "Горное дело",
+    "icon": "https://cdn3.scourge.tech/icons/inv_pick_02.png"
+  },
+  {
+    "entry": 197,
+    "quality": 1,
+    "name": "Портняжное дело",
+    "icon": "https://cdn3.scourge.tech/icons/trade_tailoring.png"
+  },
+  {
+    "entry": 202,
+    "quality": 1,
+    "name": "Инженерное дело",
+    "icon": "https://cdn3.scourge.tech/icons/trade_engineering.png"
+  },
+  {
+    "entry": 333,
+    "quality": 1,
+    "name": "Наложение чар",
+    "icon": "https://cdn3.scourge.tech/icons/trade_engraving.png"
+  },
+  {
+    "entry": 393,
+    "quality": 1,
+    "name": "Снятие шкур",
+    "icon": "https://cdn3.scourge.tech/icons/inv_misc_pelt_wolf_01.png"
+  },
+  {
+    "entry": 755,
+    "quality": 1,
+    "name": "Ювелирное дело",
+    "icon": "https://cdn3.scourge.tech/icons/inv_misc_gem_01.png"
+  },
+  {
+    "entry": 773,
+    "quality": 1,
+    "name": "Начертание",
+    "icon": "https://cdn3.scourge.tech/icons/inv_inscription_tradeskill01.png"
+  }
+]

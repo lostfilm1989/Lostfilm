@@ -1,0 +1,852 @@
+{
+  "season": 2,
+  "week": 3,
+  "total_runs": 13958,
+  "total_timed": 10504,
+  "challenges": {
+    "4": {
+      "challengeId": 4,
+      "name": "Крепость Утгард",
+      "icon": "/images/zones/utgardekeep.webp"
+    },
+    "5": {
+      "challengeId": 5,
+      "name": "Цитадель Адского Пламени: Бастионы",
+      "icon": "/images/zones/hellfirecitadel.webp"
+    },
+    "6": {
+      "challengeId": 6,
+      "name": "Кривой Клык: Узилище",
+      "icon": "/images/zones/coilfangreservoir.webp"
+    },
+    "8": {
+      "challengeId": 8,
+      "name": "Крепость Драк'Тарон",
+      "icon": "/images/zones/draktharonkeep.webp"
+    },
+    "9": {
+      "challengeId": 9,
+      "name": "Чертоги Молний",
+      "icon": "/images/zones/hallsoflightning.webp"
+    },
+    "10": {
+      "challengeId": 10,
+      "name": "Цитадель Адского Пламени: Кузня Крови",
+      "icon": "/images/zones/hellfirecitadel.webp"
+    },
+    "11": {
+      "challengeId": 11,
+      "name": "Аукиндон: Гробницы Маны",
+      "icon": "/images/zones/auchindoun.webp"
+    },
+    "12": {
+      "challengeId": 12,
+      "name": "Ан'кахет: Старое Королевство",
+      "icon": "/images/zones/ahnkahettheoldkingdom.webp"
+    }
+  },
+  "dungeons": [
+    {
+      "challengeId": 4,
+      "runs": 1300,
+      "timed": 812,
+      "max_key": 19,
+      "max_timed_key": 19,
+      "by_level": [
+        {
+          "level": 2,
+          "runs": 89,
+          "timed": 86
+        },
+        {
+          "level": 3,
+          "runs": 10,
+          "timed": 8
+        },
+        {
+          "level": 4,
+          "runs": 21,
+          "timed": 20
+        },
+        {
+          "level": 5,
+          "runs": 73,
+          "timed": 64
+        },
+        {
+          "level": 6,
+          "runs": 41,
+          "timed": 33
+        },
+        {
+          "level": 7,
+          "runs": 39,
+          "timed": 27
+        },
+        {
+          "level": 8,
+          "runs": 62,
+          "timed": 31
+        },
+        {
+          "level": 9,
+          "runs": 43,
+          "timed": 24
+        },
+        {
+          "level": 10,
+          "runs": 45,
+          "timed": 14
+        },
+        {
+          "level": 11,
+          "runs": 22,
+          "timed": 4
+        },
+        {
+          "level": 12,
+          "runs": 38,
+          "timed": 14
+        },
+        {
+          "level": 13,
+          "runs": 48,
+          "timed": 23
+        },
+        {
+          "level": 14,
+          "runs": 562,
+          "timed": 363
+        },
+        {
+          "level": 15,
+          "runs": 174,
+          "timed": 89
+        },
+        {
+          "level": 16,
+          "runs": 23,
+          "timed": 6
+        },
+        {
+          "level": 17,
+          "runs": 6,
+          "timed": 3
+        },
+        {
+          "level": 18,
+          "runs": 2,
+          "timed": 1
+        },
+        {
+          "level": 19,
+          "runs": 2,
+          "timed": 2
+        }
+      ]
+    },
+    {
+      "challengeId": 5,
+      "runs": 3256,
+      "timed": 2917,
+      "max_key": 22,
+      "max_timed_key": 21,
+      "by_level": [
+        {
+          "level": 2,
+          "runs": 103,
+          "timed": 103
+        },
+        {
+          "level": 3,
+          "runs": 19,
+          "timed": 19
+        },
+        {
+          "level": 4,
+          "runs": 35,
+          "timed": 35
+        },
+        {
+          "level": 5,
+          "runs": 107,
+          "timed": 104
+        },
+        {
+          "level": 6,
+          "runs": 56,
+          "timed": 54
+        },
+        {
+          "level": 7,
+          "runs": 80,
+          "timed": 77
+        },
+        {
+          "level": 8,
+          "runs": 122,
+          "timed": 110
+        },
+        {
+          "level": 9,
+          "runs": 87,
+          "timed": 79
+        },
+        {
+          "level": 10,
+          "runs": 99,
+          "timed": 87
+        },
+        {
+          "level": 11,
+          "runs": 93,
+          "timed": 70
+        },
+        {
+          "level": 12,
+          "runs": 129,
+          "timed": 106
+        },
+        {
+          "level": 13,
+          "runs": 227,
+          "timed": 182
+        },
+        {
+          "level": 14,
+          "runs": 1530,
+          "timed": 1410
+        },
+        {
+          "level": 15,
+          "runs": 435,
+          "timed": 376
+        },
+        {
+          "level": 16,
+          "runs": 81,
+          "timed": 60
+        },
+        {
+          "level": 17,
+          "runs": 34,
+          "timed": 28
+        },
+        {
+          "level": 18,
+          "runs": 9,
+          "timed": 9
+        },
+        {
+          "level": 19,
+          "runs": 4,
+          "timed": 4
+        },
+        {
+          "level": 20,
+          "runs": 4,
+          "timed": 3
+        },
+        {
+          "level": 21,
+          "runs": 1,
+          "timed": 1
+        },
+        {
+          "level": 22,
+          "runs": 1,
+          "timed": 0
+        }
+      ]
+    },
+    {
+      "challengeId": 6,
+      "runs": 3347,
+      "timed": 3031,
+      "max_key": 24,
+      "max_timed_key": 21,
+      "by_level": [
+        {
+          "level": 2,
+          "runs": 85,
+          "timed": 83
+        },
+        {
+          "level": 3,
+          "runs": 9,
+          "timed": 9
+        },
+        {
+          "level": 4,
+          "runs": 35,
+          "timed": 35
+        },
+        {
+          "level": 5,
+          "runs": 83,
+          "timed": 82
+        },
+        {
+          "level": 6,
+          "runs": 57,
+          "timed": 57
+        },
+        {
+          "level": 7,
+          "runs": 82,
+          "timed": 78
+        },
+        {
+          "level": 8,
+          "runs": 109,
+          "timed": 99
+        },
+        {
+          "level": 9,
+          "runs": 104,
+          "timed": 98
+        },
+        {
+          "level": 10,
+          "runs": 60,
+          "timed": 46
+        },
+        {
+          "level": 11,
+          "runs": 89,
+          "timed": 65
+        },
+        {
+          "level": 12,
+          "runs": 138,
+          "timed": 116
+        },
+        {
+          "level": 13,
+          "runs": 275,
+          "timed": 231
+        },
+        {
+          "level": 14,
+          "runs": 1568,
+          "timed": 1462
+        },
+        {
+          "level": 15,
+          "runs": 472,
+          "timed": 420
+        },
+        {
+          "level": 16,
+          "runs": 123,
+          "timed": 97
+        },
+        {
+          "level": 17,
+          "runs": 37,
+          "timed": 35
+        },
+        {
+          "level": 18,
+          "runs": 6,
+          "timed": 6
+        },
+        {
+          "level": 19,
+          "runs": 12,
+          "timed": 10
+        },
+        {
+          "level": 20,
+          "runs": 1,
+          "timed": 1
+        },
+        {
+          "level": 21,
+          "runs": 1,
+          "timed": 1
+        },
+        {
+          "level": 24,
+          "runs": 1,
+          "timed": 0
+        }
+      ]
+    },
+    {
+      "challengeId": 8,
+      "runs": 869,
+      "timed": 509,
+      "max_key": 18,
+      "max_timed_key": 18,
+      "by_level": [
+        {
+          "level": 2,
+          "runs": 74,
+          "timed": 74
+        },
+        {
+          "level": 3,
+          "runs": 10,
+          "timed": 9
+        },
+        {
+          "level": 4,
+          "runs": 13,
+          "timed": 12
+        },
+        {
+          "level": 5,
+          "runs": 57,
+          "timed": 46
+        },
+        {
+          "level": 6,
+          "runs": 32,
+          "timed": 26
+        },
+        {
+          "level": 7,
+          "runs": 32,
+          "timed": 17
+        },
+        {
+          "level": 8,
+          "runs": 27,
+          "timed": 14
+        },
+        {
+          "level": 9,
+          "runs": 21,
+          "timed": 14
+        },
+        {
+          "level": 10,
+          "runs": 31,
+          "timed": 13
+        },
+        {
+          "level": 11,
+          "runs": 13,
+          "timed": 4
+        },
+        {
+          "level": 12,
+          "runs": 21,
+          "timed": 6
+        },
+        {
+          "level": 13,
+          "runs": 25,
+          "timed": 8
+        },
+        {
+          "level": 14,
+          "runs": 432,
+          "timed": 239
+        },
+        {
+          "level": 15,
+          "runs": 72,
+          "timed": 24
+        },
+        {
+          "level": 16,
+          "runs": 6,
+          "timed": 2
+        },
+        {
+          "level": 17,
+          "runs": 1,
+          "timed": 0
+        },
+        {
+          "level": 18,
+          "runs": 2,
+          "timed": 1
+        }
+      ]
+    },
+    {
+      "challengeId": 9,
+      "runs": 1176,
+      "timed": 368,
+      "max_key": 18,
+      "max_timed_key": 17,
+      "by_level": [
+        {
+          "level": 2,
+          "runs": 68,
+          "timed": 51
+        },
+        {
+          "level": 3,
+          "runs": 9,
+          "timed": 4
+        },
+        {
+          "level": 4,
+          "runs": 14,
+          "timed": 11
+        },
+        {
+          "level": 5,
+          "runs": 52,
+          "timed": 27
+        },
+        {
+          "level": 6,
+          "runs": 30,
+          "timed": 10
+        },
+        {
+          "level": 7,
+          "runs": 52,
+          "timed": 18
+        },
+        {
+          "level": 8,
+          "runs": 49,
+          "timed": 17
+        },
+        {
+          "level": 9,
+          "runs": 28,
+          "timed": 7
+        },
+        {
+          "level": 10,
+          "runs": 31,
+          "timed": 8
+        },
+        {
+          "level": 11,
+          "runs": 36,
+          "timed": 2
+        },
+        {
+          "level": 12,
+          "runs": 35,
+          "timed": 2
+        },
+        {
+          "level": 13,
+          "runs": 40,
+          "timed": 8
+        },
+        {
+          "level": 14,
+          "runs": 550,
+          "timed": 177
+        },
+        {
+          "level": 15,
+          "runs": 156,
+          "timed": 21
+        },
+        {
+          "level": 16,
+          "runs": 18,
+          "timed": 3
+        },
+        {
+          "level": 17,
+          "runs": 6,
+          "timed": 2
+        },
+        {
+          "level": 18,
+          "runs": 2,
+          "timed": 0
+        }
+      ]
+    },
+    {
+      "challengeId": 10,
+      "runs": 2370,
+      "timed": 1913,
+      "max_key": 20,
+      "max_timed_key": 20,
+      "by_level": [
+        {
+          "level": 2,
+          "runs": 102,
+          "timed": 102
+        },
+        {
+          "level": 3,
+          "runs": 13,
+          "timed": 13
+        },
+        {
+          "level": 4,
+          "runs": 28,
+          "timed": 28
+        },
+        {
+          "level": 5,
+          "runs": 77,
+          "timed": 76
+        },
+        {
+          "level": 6,
+          "runs": 50,
+          "timed": 48
+        },
+        {
+          "level": 7,
+          "runs": 63,
+          "timed": 56
+        },
+        {
+          "level": 8,
+          "runs": 96,
+          "timed": 86
+        },
+        {
+          "level": 9,
+          "runs": 86,
+          "timed": 67
+        },
+        {
+          "level": 10,
+          "runs": 65,
+          "timed": 41
+        },
+        {
+          "level": 11,
+          "runs": 65,
+          "timed": 41
+        },
+        {
+          "level": 12,
+          "runs": 97,
+          "timed": 63
+        },
+        {
+          "level": 13,
+          "runs": 166,
+          "timed": 108
+        },
+        {
+          "level": 14,
+          "runs": 1057,
+          "timed": 894
+        },
+        {
+          "level": 15,
+          "runs": 323,
+          "timed": 240
+        },
+        {
+          "level": 16,
+          "runs": 56,
+          "timed": 34
+        },
+        {
+          "level": 17,
+          "runs": 16,
+          "timed": 11
+        },
+        {
+          "level": 18,
+          "runs": 5,
+          "timed": 3
+        },
+        {
+          "level": 19,
+          "runs": 2,
+          "timed": 0
+        },
+        {
+          "level": 20,
+          "runs": 3,
+          "timed": 2
+        }
+      ]
+    },
+    {
+      "challengeId": 11,
+      "runs": 1297,
+      "timed": 853,
+      "max_key": 19,
+      "max_timed_key": 18,
+      "by_level": [
+        {
+          "level": 2,
+          "runs": 55,
+          "timed": 55
+        },
+        {
+          "level": 3,
+          "runs": 8,
+          "timed": 8
+        },
+        {
+          "level": 4,
+          "runs": 24,
+          "timed": 23
+        },
+        {
+          "level": 5,
+          "runs": 54,
+          "timed": 54
+        },
+        {
+          "level": 6,
+          "runs": 31,
+          "timed": 29
+        },
+        {
+          "level": 7,
+          "runs": 45,
+          "timed": 37
+        },
+        {
+          "level": 8,
+          "runs": 55,
+          "timed": 44
+        },
+        {
+          "level": 9,
+          "runs": 56,
+          "timed": 36
+        },
+        {
+          "level": 10,
+          "runs": 51,
+          "timed": 32
+        },
+        {
+          "level": 11,
+          "runs": 33,
+          "timed": 14
+        },
+        {
+          "level": 12,
+          "runs": 45,
+          "timed": 21
+        },
+        {
+          "level": 13,
+          "runs": 52,
+          "timed": 25
+        },
+        {
+          "level": 14,
+          "runs": 593,
+          "timed": 384
+        },
+        {
+          "level": 15,
+          "runs": 168,
+          "timed": 78
+        },
+        {
+          "level": 16,
+          "runs": 18,
+          "timed": 8
+        },
+        {
+          "level": 17,
+          "runs": 5,
+          "timed": 3
+        },
+        {
+          "level": 18,
+          "runs": 3,
+          "timed": 2
+        },
+        {
+          "level": 19,
+          "runs": 1,
+          "timed": 0
+        }
+      ]
+    },
+    {
+      "challengeId": 12,
+      "runs": 343,
+      "timed": 101,
+      "max_key": 16,
+      "max_timed_key": 16,
+      "by_level": [
+        {
+          "level": 2,
+          "runs": 43,
+          "timed": 37
+        },
+        {
+          "level": 3,
+          "runs": 5,
+          "timed": 3
+        },
+        {
+          "level": 4,
+          "runs": 8,
+          "timed": 5
+        },
+        {
+          "level": 5,
+          "runs": 28,
+          "timed": 11
+        },
+        {
+          "level": 6,
+          "runs": 22,
+          "timed": 14
+        },
+        {
+          "level": 7,
+          "runs": 15,
+          "timed": 4
+        },
+        {
+          "level": 8,
+          "runs": 16,
+          "timed": 5
+        },
+        {
+          "level": 9,
+          "runs": 15,
+          "timed": 2
+        },
+        {
+          "level": 10,
+          "runs": 7,
+          "timed": 0
+        },
+        {
+          "level": 11,
+          "runs": 4,
+          "timed": 0
+        },
+        {
+          "level": 12,
+          "runs": 9,
+          "timed": 0
+        },
+        {
+          "level": 13,
+          "runs": 8,
+          "timed": 0
+        },
+        {
+          "level": 14,
+          "runs": 121,
+          "timed": 15
+        },
+        {
+          "level": 15,
+          "runs": 39,
+          "timed": 4
+        },
+        {
+          "level": 16,
+          "runs": 3,
+          "timed": 1
+        }
+      ]
+    }
+  ]
+}
